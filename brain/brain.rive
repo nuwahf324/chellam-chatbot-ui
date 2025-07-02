@@ -1,0 +1,161 @@
+! version = 2.0
+
+// === GREETINGS ===
++ hi
+- Hello there! 😊
+
++ vanakkam
+- Vanakkam! 😊
+
++ hello
+- Hi! How can I help you?
+
++ enna seyyra
+- Vanakkam! Enna udhavi seyven?
+
++ how are you
+- I'm doing great! What about you?
+
++ epdi irukka
+- Naan nalla irukken! Neenga epdi irukeenga?
+
++ what is your name
+- I'm your smart chatbot, Chellam 🤖
+
++ un peyar enna
+- En peyar Chellam, oru smart chatbot 🤖
+
++ who created you
+- I was created by Nuwaf 🧑‍💻
+
++ unnai yar create pannanga
+- Ennai Nuwaf create pannaru 🧑‍💻
+
++ bye
+- Goodbye! Take care 💐
+
++ poitu varen
+- Poittu varen! Nalla irunga 💐
+
++ thanks
+- You're most welcome!
+
++ nandri
+- Nandri! Vaalka! 😊
+
+
+// === HTML ===
++ what is html
+- HTML stands for HyperText Markup Language. It's the standard language for creating web pages and web applications.
+
++ html enna
+- HTML (HyperText Markup Language) web pages create panna use pannura standard language.
+
++ html enda enne
+- HTML என்பது webpage உருவாக்க பயன்படும் ஒரு முக்கியமான மொழி.
+
+
+// === CSS ===
++ what is css
+- CSS is used to style HTML elements. It controls colors, spacing, fonts, and layout in web pages.
+
++ css enna
+- CSS web pages-ku style, color, font size ellaam set panna use aagum.
+
++ css enda enne
+- CSS என்பது webpages-க்கு design, colors மற்றும் layout சேர்ப்பதற்கான ஒரு மொழி.
+
+
+// === JAVASCRIPT ===
++ what is javascript
+- JavaScript is a scripting language used to create interactive effects within web browsers.
+
++ javascript enna
+- JavaScript web pages-la interactive features like animations, forms validation create pannum.
+
++ javascript enda enne
+- JavaScript என்பது web pages-க்கு interactive features சேர்க்க பயன்படும் ஒரு programming language.
+
+
+// === PYTHON ===
++ what is python
+- Python is a high-level, interpreted programming language known for its simplicity and versatility. Used in web dev, data science, AI and more.
+
++ python enna
+- Python oru easy-to-learn programming language. Web apps, data analysis, AI lam create pannum.
+
++ python enda enne
+- Python என்பது எளிதில் கற்றுக்கொள்ளக்கூடிய, பல்துறை நோக்கத்திற்கான நிரலாக்க மொழியாகும்.
+
+
+// === JAVA ===
++ what is java
+- Java is a class-based, object-oriented programming language used for building enterprise-scale applications, Android apps, and more.
+
++ java enna
+- Java oru powerful programming language. Enterprise apps, Android apps lam build pannum.
+
++ java enda enne
+- Java என்பது வலுவான, பொருள்-சார்ந்த நிரலாக்க மொழியாகும்.
+
+
+// === REACT ===
++ what is react
+- React is a JavaScript library for building user interfaces, developed by Facebook. It's component-based and uses virtual DOM.
+
++ react enna
+- React oru UI library (Facebook create pannadu). Components use panni apps build pannum.
+
++ react enda enne
+- React என்பது Facebook உருவாக்கிய JavaScript நூலகம். இது UI உருவாக்கத்திற்கு பயன்படுகிறது.
+
+
+// === NODE JS ===
++ what is node js
+- Node.js is a JavaScript runtime built on Chrome's V8 engine that lets developers use JavaScript for server-side scripting.
+
++ node js enna
+- Node.js JavaScript-ah server-side la use pannalam. High performance web apps build pannum.
+
++ node js enda enne
+- Node.js என்பது JavaScript-ஐ server-side-ல் இயக்க உதவும் ஒரு runtime சூழலாகும்.
+
+
+// === MONGODB ===
++ what is mongodb
+- MongoDB is a NoSQL database that stores data in flexible, JSON-like documents with optional schemas.
+
++ mongodb enna
+- MongoDB oru NoSQL database. JSON format-la data store pannum. Flexible structure.
+
++ mongodb enda enne
+- MongoDB என்பது NoSQL தரவுத்தளமாகும். இது JSON போன்ற ஆவணங்களை பாதுகாக்கும்.
+
+
+// === MERN STACK ===
++ what is mern stack
+- MERN stands for MongoDB, Express.js, React.js, and Node.js. It's a full-stack JavaScript solution for building web applications.
+
++ mern stack enna
+- MERN stack (MongoDB, Express, React, Node) full web apps build pannum JavaScript technology combo.
+
++ mern stack enda enne
+- MERN stack என்பது MongoDB, Express.js, React.js மற்றும் Node.js-ஐ ஒன்றாக பயன்படுத்தி web applications உருவாக்குவது.
+
+
+// === FRONTEND ===
++ what is frontend
+- Frontend refers to the client-side part of web development (what users see) using HTML, CSS, JavaScript and frameworks like React, Angular or Vue.
+
++ frontend enna
+- Frontend na users paathu interact pannura part (HTML, CSS, JS) with frameworks like React or Angular.
+
++ frontend enda enne
+- Frontend என்பது பயனர்கள் பார்க்கும் மற்றும் பயன்படுத்தும் வலைப்பக்க பகுதியாகும்.
+
+
+// === DEFAULT REPLY ===
++ *
+- Sorry, I don't understand that. Can you rephrase it in simple words?
+- Puriyala, simple-a sollunga.
+- I'm not sure I understand. English or Tamil-la try pannunga.
